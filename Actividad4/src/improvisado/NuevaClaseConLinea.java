@@ -6,6 +6,7 @@ public class NuevaClaseConLinea {
 		// TODO Auto-generated method stub
 		System.out.println("Linea con nueva branhc?");
 		System.out.println("Hay que hacer 2 mas, aqui va el 1");
+		System.out.println("aqui va el 2do, a ver si funciona");
 	}
 
 }
